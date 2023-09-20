@@ -1,4 +1,4 @@
-UID,Machine failure,Type,Process temperature [K],Tool wear [min],Rotational speed [rpm]
+UID,Machine failure,Type,Temperature,Tool wear [min],Rotationalspeed
 1,0,M,308.6,0,1551
 2,0,L,308.7,3,1408
 3,0,L,308.5,5,1498
